@@ -12,23 +12,33 @@ The antagonist sets things into motion.
 
 There must always be consequence to action.
 
-What is her action? She fights. What is the consequence? She will win or lose. If she wins she will get to  
+What is her action? She fights. What is the consequence? She will win or lose. If she wins she will get to... 
 
 ===
 
 INT. HOSPITAL HALLWAY - DAY
 
-A nervous eleven year old JAY sits in the hallway on the third floor of Saint Luke's. She's doing her science homework.
+/*
 
-A faint MOANING comes from the room across the hall. Jay cranes her neck to get a better view through the door across the hall.
+Just need one distinguishing image to paint this girls personality. Perhaps it's what she writes in her book? Or maybe she's doing an essay or a journal entry and what she's writing gives a little bit more insight into who she really is.
 
-She's too intrigued. Jay gets up and creeps into the room, dropping her science book on the hallway floor as she does.
+*/
+
+Eleven year old JAY sits in the hallway on the third floor of Saint Luke's Memorial Hospital. She's wiggles in the chair, trying to find a comfortable position as she writes in science homework book.
+
+A faint MOANING comes from the room across the hall. The noise catches Jay's attention, and she cranes her neck to get a better view into the room.
+
+/*
+Through the threshold we can see the foot of a hospital bed on the far side of the room peeking out bed behind the curtain the separates the double room. Atop the bed, the feet of the patient kick and trash.
+*/
+
+Jay gets up and leaves her science book on the chair.
 
 INT. HOSPITAL ROOM - DAY
 
-From the entranceway of the room we only see the foot of the bed peeking out from behind the curtain. The morning gets louder as we get closer.
+The MOANING grows louder as Jay tiptoes into the room.
 
-A woman lies writing in excruciating pain on the bed behind the curtain.
+A woman lies writing in excruciating pain on the bed behind the curtain. A man sits at her bedside.
 
 WOMAN
 Please, honey. Please.
@@ -51,59 +61,151 @@ MAN
 I brought Jay.
 
 WOMAN
-I don't want her to see me like this.
+No, no, no. What is wrong with you?
 
-===
+Jay shuts her eyes tight.
 
-She's a scientist/engineer and has dedicated her whole career to pain therapy.
+.COMPUTER SCREEN
 
-===
+.MONTAGE:
 
-Computer screen of articles from the time she's eleven. She's a child prodigy at science and gets into medical school at 17. Possibly VO of news anchors telling stories about her achievements. Her research has lead her to working on computer brain interfaces that were introduced for VR purposes, but she's using them to affect other areas of the brain.
+A succession of news articles flashes on the screen. The articles outline the chronology of Jay's assent to child prodigy of sciences. Headlines include:
 
-INT. APARTMENT - DAY
+1) 16 year old admitted to Cornell medical school. Youngest medical student in school's history.
+2) Neuroscience prodigy continues research on computer-brain interfaces for medical purposes.
+3) Breakthroughs in pain treatment research...
+
+The montage is accompanied by a voice over of an interview with Jay where she discusses her motivation.
+
+INT. APARTMENT - LIVING ROOM - DAY
+
+Twenty-six year old JAY sits on the floor in the middle of her living room. She's meditating crosslegged with her eyes closed.
+
+
+She takes off her sweater to reveal a gruesome matrix of scars running up the entire length of each arm.
+
+She picks up a razor blade and removes it from its cardboard sheath. She places it at the center of her left wrist.
+
+JAY (VO)
+Pain is only in the mind.
+
+She breaths deep, then slides the blade all the way up to her armpit.
+
+INT. LECTURE HALL - DAY
+
+Jay stands at the podium in a university lecture hall giving a presentation. Four older, distinguished scientists sit in the front row.
 
 /*
-What kind of drama is in here? What's the challenge here? What's the action she's taking and what kind of consequence does it have?
 
-This is like her 1000th attempt at this model. She is ecstatic because she know's what was wrong last time and she know's exactly how to fix it. She says that they might finally have it this time!
+She's applying for another grant to continue her research.
 
-We need to see that she is also obsessed with pain. She does pain meditation here too but it is much less extreme. We need the "pain is only in the mind" line here.
+The administrators have the power. She want's the money.
+
+The dramatic action she takes is to lie about how far along they've come to convince them that more money will lead to breakthrough.
+
+As part of her presentation we need to also see a picture of the devices so we know what she's putting on her moms head when she goes back to visiting her in the void.
 
 */
 
-She's typing code on her big monitor. She finishes an algorithm and sends it over for testing.
+INT. OFFICE - DAY
+
+Jay enters and sitting there is ANDY
+
+ANDY
+How'd it go?
+
+JAY
+Well.
+
+ANDY
+Well, like we got it, well?
+
+JAY
+Well, almost.
+
+ANDY
+What are you talking about?
+
+JAY
+I told them that we've achieved resonance in simulation testing.
+
+ANDY
+Why?
+
+JAY
+Because they were grilling me.
+
+ANDY
+They were grilling you?
+
+JAY
+They had already made up their minds. It was our last shot.
+
+ANDY
+Let me get this straight. They turn the heat up a little bit and your solution is to lie?
+
+JAY
+I didn't lie.
+
+ANDY
+You told them we did something we didn't do. In what universe is that not lying?
+
+JAY
+They gave us until Monday to submit our data. Our last run was only point four percent off. We can do it.
+
+ANDY
+We cannot do it. I have my sister's wedding this weekend. Are you crazy? Do you realize the jeopardy you've put my career in?
+
+JAY
+I can make the changes to the model. All I need you to do is supervise the test.
+
+
+ANDY
+(Scoffs)
+Unbelievable.
+
+Andy packs up his computer into his bag.
+
+ANDY
+People warned me -brilliant, but completely unbearable. Well I'm not going to work any more 80 hour weeks just to keep up with you. Good luck finding yourself a new research partner.
+
+He leaves.
 
 .ETERNAL BLACK VOID
+/*
 
-She see's her mom. Trippy dream where she realizes the guilt of it being all her fault. If only she was never born. Her mom gets sucked away.
+This is a guilt trip. She is powerless. Her mom gets sucked away.
+
+*/
 
 INT. APARTMENT - BEDROOM - NIGHT
 
-She shoots up in the middle of the night after having the nightmare.
+Jay shoots up in her bed. It was a nightmare.
 
 INT. APARTMENT - KITCHEN - NIGHT
 
-She is pacing back and forth not knowing what to do. The guilt is crushing her. She sinks down against the fridge.
+Jay paces back and forth weeping. She stops at the fridge and slides down to the floor.
 
-Her phone chimes. It's a message to call him now. She gets on the computer and is talking to him. He tells her that her latest model didn't work but neural mapping algorithm that she came up with was able to map 100% of a brain. It's the first time this has ever happened. We can now upload a persons entire state of consciousness. She says: what about downloading them?
+Her phone RINGS. She collects herself and answers.
 
-She puts a bag down and we're wondering what she's going to do. The suspense builds. She pulls out a knife. Time stops.
+/*
+
+What needs to happen here. In order for us to understand the meaning of her following action we have to understand that she figured out how to swap consciousnesses.
+
+*/
+
+INT. APARTMENT - KITCHEN - NIGHT
+
+Jay pull a pearing knife out of the drawer.
 
 JAY (VO)
 Pain is only in the mind.
 
 She plunges the knife right into her abdomen. It takes her a while, but eventually she is able to enter a state of peace.
 
-INT. LAB - DAY
+INT. OFFICE - NIGHT
 
 She walks through the hallway of the lab building to her office. Billy is in there. She doesn't say a word for him. Just goes straight to her desk and picks up a case, turns around and leaves.
-
-Is her mother in the same place? Is she still in the same hospital bed she was in 15 years ago?
-
-EXT. ROAD - DAY
-
-She climbs the mountains and crosses streams to get to the cabin where her mother is?
 
 .ETERNAL BLACK VOID
 
